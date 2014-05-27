@@ -1,0 +1,30 @@
+{
+  "name": "movieStub",
+  "version": "0.0.1",
+  "description": "Book Movie tickets Online",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "Book",
+    "Movies",
+    "Tickets"
+  ],
+  "authors": [
+    "acveer"
+  ],
+  "license": "MIT, OpenSource",
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "~1.2.16",
+    "bootstrap": "~3.1.1"
+  }
+}

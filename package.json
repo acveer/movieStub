@@ -1,0 +1,14 @@
+{
+  "name": "movieStub",
+  "version": "0.0.1",
+  "descripion": "Book Movie tickets online",
+  "main": "index.js"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "acveer",
+  "license": "OpenSource",
+  "devDependencies": {
+    "express": "^4.2.0"
+  }
+}
